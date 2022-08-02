@@ -1,5 +1,5 @@
 # _Тестовое задание от iTexUS_
-Демонстрация: [https://itexus.nextwell.top](itexus.nextwell.top)
+Демонстрация: [itexus.nextwell.top](https://itexus.nextwell.top)
 
 ## :fire: Задача
 #### Условия, требования и ТЗ:
