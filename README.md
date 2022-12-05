@@ -1,7 +1,5 @@
 # 👍 _Тестовое задание от iTexUS_
-Демонстрация: [itexus.nextwell.top](https://itexus.nextwell.top)
-
-
+Демонстрация приложения: [itexus-testtask.nextwell.top](https://itexus-testtask.nextwell.top)
 
 ## :fire: Задача
 #### Условия, требования и ТЗ:
